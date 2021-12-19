@@ -1,5 +1,5 @@
 {
-  "name": "marvinlabs/laravel-setup-wizard",
+  "name": "AmirHuxain/laravel-setup-wizard",
   "type": "library",
   "description": "A web setup wizard for your Laravel application",
   "keywords": [
@@ -15,8 +15,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Vincent Mimoun-Prat",
-      "email": "contact@vincentprat.info"
+      "name": "Amir Hussain",
+      "email": "amirhuxain@gmail.com"
     }
   ],
   "minimum-stability": "stable",
