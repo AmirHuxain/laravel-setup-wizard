@@ -1,5 +1,5 @@
 {
-  "name": "AmirHuxain/laravel-setup-wizard",
+  "name": "marvinlabs/laravel-setup-wizard",
   "type": "library",
   "description": "A web setup wizard for your Laravel application",
   "keywords": [
@@ -23,7 +23,7 @@
   "require": {
     "php": ">=7.2",
     "illuminate/support": "~6.0|~7.0|~8.0",
-    "laravelcollective/html": "~8.0"
+    "laravelcollective/html": "~6.0"
   },
   "requireDev": {
   },
